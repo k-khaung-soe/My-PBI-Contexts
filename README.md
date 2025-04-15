@@ -31,4 +31,5 @@ Applied methods
   -Sales Trend Analysis with drill-through features
   -Sales Reports
   -Time-Series Comparison
+  -Advancing Barchart
   
